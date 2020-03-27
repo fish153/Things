@@ -1,7 +1,7 @@
-'   Kanstantsin Kubrak
+
 'Write a Tic-Tac-Toe game that allows you to play against the computer. 
 'Instead of x and y, we will use 1 and 2. You will need a 3x3 array to hold the information. 
-'You will be ‘1’ and the computer will by ‘2’. The computer’s coordinate will be generated through a random number generator. 
+'You will be â€˜1â€™ and the computer will by â€˜2â€™. The computerâ€™s coordinate will be generated through a random number generator. 
 'If the user or the computer selects a coordinate that was previously selected, then either ask the user or have the computer generate another number. 
 'The game should stop as soon as there is a win. Display the grid after the computer or the user has selected the coordinate. 
 'If there is a tie, erase the grid and re-start the game until there is a win.
